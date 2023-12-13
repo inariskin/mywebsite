@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ina Riskin - Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: olive;
+            color: blue;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h1 {
+            color: olive;
+        }
+
+        h2 {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Ina Riskin</h1>
+        <p>CFA | LMU |INSEAD MBA | EU EIC | Theatre </p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Passionate about finance, innovation, and the arts. Proud mum of 3 kids. Based in London.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>Financial Analysis | Start Up Evaluation | Derivatives | Innovation Strategy | Theatre and Arts</p>
+    </section>
+
+    <section>
+        <h2>Projects and Achievements</h2>
+        <pthis website</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: inariskin@yahoo.com</p>
+        <!-- Add more contact details if needed -->
+    </section>
+</body>
+
+</html>
